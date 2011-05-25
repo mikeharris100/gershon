@@ -1,0 +1,1 @@
+This is a Matlab implementation of Gershon et al.'s colour constancy algorithm, as detailed in: R. Gershon, A.D. Jepson, and J.K. Tsotsos, "From [R,G,B] to Surface Reflectance: Computing Color Constant Descriptors in Images", Perception, pp. 755-758, 1988. 
